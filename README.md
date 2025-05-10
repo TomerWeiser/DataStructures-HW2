@@ -1,5 +1,5 @@
 # Project Overview
-This project was developed as part of the Data Structures course (Winter 2024-2025). The main goal of this project was to implement efficient data structures to manage and process data according to the given specifications.
+This project was developed as part of the Data Structures course (Winter 2024-2025). The main goal of this project was to implement efficient data structures including Hash-Tables, AVL Trees, Linked Lists, and Union-Find to manage and process data according to the given specifications.
 
 ## Features
 - Implementation of core data structures.
